@@ -2,7 +2,8 @@
 Mini project for university, which encrypt, decrypt and validate bank cards with JavaFx
 
 To start correctly this app, you must install javaFx on your machine,
-then add VM options and --module-path \openjfx-19_windows-x64_bin-sdk\javafx-sdk-19\lib --add-modules javafx.controls,javafx.fxml
+then add VM options and type
+--module-path \openjfx-19_windows-x64_bin-sdk\javafx-sdk-19\lib --add-modules javafx.controls,javafx.fxml
 where \openjfx-19_windows-x64_bin-sdk\javafx-sdk-19\lib is path to lib folder in javaFx which you install
 
 ![image](https://user-images.githubusercontent.com/80620561/215750806-9eb1df8f-b9ce-407a-907f-afcd280f7513.png)
