@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="businessLogic:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/businessLogic_jar</output-path>
+    <root id="archive" name="businessLogic.jar">
+      <element id="module-output" name="businessLogic" />
+    </root>
+  </artifact>
+</component>

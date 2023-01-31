@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.5" class="java.beans.XMLDecoder">
+ <object class="user.User" id="User0">
+  <void property="canEncrypt">
+   <boolean>true</boolean>
+  </void>
+  <void id="ArrayList0" property="cards">
+   <void method="add">
+    <object class="card.Card">
+     <void property="cardNumber">
+      <string>9563960122001999</string>
+     </void>
+     <void property="lastShift">
+      <int>5</int>
+     </void>
+    </object>
+   </void>
+  </void>
+  <void property="cards">
+   <object idref="ArrayList0"/>
+  </void>
+  <void property="password">
+   <string>password</string>
+  </void>
+  <void property="username">
+   <string>username</string>
+  </void>
+ </object>
+</java>
